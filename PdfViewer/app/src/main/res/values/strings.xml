@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cessna 172M 1975 POH</string>
+    <string name="page_number">PageNumber</string>
+    <string name="settings">Settings</string>
+    <string name="enable_night_mode">Enable Night Mode</string>
+    <string name="enable_horizontal_scroll">Enable Horizontal Scroll</string>
+</resources>
